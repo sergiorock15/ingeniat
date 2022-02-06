@@ -1,4 +1,4 @@
-    --Creamos la Base de datos
+    -- Creamos la Base de datos
     CREATE DATABASE ingeniat;
 
     -- Tabla de Roles
